@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "138267549151",
+    "project_id": "ryan-gosling-5ce43",
+    "storage_bucket": "ryan-gosling-5ce43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138267549151:android:4341e5cbe8d5312a7eb86a",
+        "android_client_info": {
+          "package_name": "com.example.miauff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138267549151-9t586qd9g32n3l63mhe0q39m1u7ref0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miauff",
+            "certificate_hash": "f862b4dde8be71de18435666847daf17b778ee6d"
+          }
+        },
+        {
+          "client_id": "138267549151-vfuidpd5dhv86lrceevf2gjga2ha2rbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrGpkS8RF6H5YOHOE2hsPHg3RlU-Asxko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138267549151-vfuidpd5dhv86lrceevf2gjga2ha2rbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
